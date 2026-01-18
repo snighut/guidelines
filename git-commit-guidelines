@@ -1,3 +1,8 @@
+# New Git repository guidelines
+Always run the ggshield precommit hook installation so that we don't accidently psuh secrets or private keys.
+Steps
+`ggshield install --mode local `
+
 # Git Commit Message Conventions
 
 This document outlines the standard semantic prefixes used to categorize changes in the project's version control history.
